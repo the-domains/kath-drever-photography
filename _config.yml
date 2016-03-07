@@ -1,20 +1,4 @@
-name: Kath Drever Photography
-favicon: null
-layout_spectrum: 0.98153
-typography_spectrum: 0.30468
-title: Good Photography Speaks Through Silence
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#111212'
@@ -22,8 +6,13 @@ color:
     - '#ae8080'
     - '#d91d47'
     - '#833a1e'
-  brandStrength: 0.4375
-  lightness: 0.8795069875195622
-  saturation: 0.21326381620019674
-  rhythmicContrast: 0.087402218952775
+  brandStrength: 0.530405
+  lightness: 0.477196
+  rhythmicContrast: 0.380912
+  saturation: 0.015203
+cta: {}
+layout_spectrum: 0.98153
+name: Kath Drever Photography
+opengraph: {}
 purpose: []
+typography_spectrum: 0.30468
