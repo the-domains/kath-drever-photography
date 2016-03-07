@@ -1,7 +1,7 @@
 name: Kath Drever Photography
 favicon: null
-layout_spectrum: 0.9487142420839518
-typography_spectrum: 0.7218385685700923
+layout_spectrum: 0.98153
+typography_spectrum: 0.30468
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3056891777087003
+    - '#111212'
+    - '#ffffff'
+    - '#ae8080'
+    - '#d91d47'
+    - '#833a1e'
+  brandStrength: 0.4375
   lightness: 0.8795069875195622
   saturation: 0.21326381620019674
   rhythmicContrast: 0.087402218952775
